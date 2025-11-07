@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Moul&family=Rubik:ital,wght@0,300..900;1,300..900&family=Siemreap&display=swap');
+
+.font-1{ font-family: "moul"; font-size: 4vw;}
+.font-2{font-family: "siemreap";font-size: 4vw;}
+.text-1,.text-2,.text-3,.text-4,.text-5,.text-6,.text-7,.text-8 {line-height: 2vw;}
+
+body { background-image: url(/Kbach.png); background-size: 17vw;
+background-color: rgb(142, 110, 75);
+}
+
+.kbach-0{ display: block;
+    width: 100vw; position: sticky; top: 0; margin-top: -170vw; margin-left: -1px }
+.kbach-1{width: 17vw; margin-top: -20vw;display: block ; margin-left: -1vw ; position: sticky; top:0;}
+.kbach-2{width: 17vw; margin-top: 88vw; display: block; margin-left: 81vw; position: sticky; top:0;}
+
+
+.logo-3{width: 60%;margin: auto; margin-top: 30vw; margin-left: 20%;}
+
+.text-0{
+    color: white; width: auto; text-align: center;
+    font-family: "Moul", serif; font-size: 5.5vw; text-shadow: 2px 2px gold; ;}
+
+.text-1{ color: gold; text-shadow: 1px 1px palevioletred; margin-left: 08%; ;}
+.text-2{color: gold; text-shadow: 1px 1px grey; margin-left: 02%;}
+.text-3{ color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 10%;}
+.text-4{color: gold; text-shadow: 1px 1px grey;; margin-left: 02%;}
+.text-5{ color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 6%;}
+.text-6{color: gold; text-shadow: 1px 1px grey;; margin-left: 02%;}
+.text-7{ color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 10%;}
+.text-8{color: gold; text-shadow: 1px 1px grey;; margin-left: 02%;}
+
+.text-p1{color: goldenrod; margin-top: 50px; text-shadow: 1px 1px wheat;
+    font-family: "moul"; text-align: center;}
+.text-p2{color: rgb(239, 223, 5); text-shadow: 2px 1px red; font-family: "siemreap"; text-align: center; margin-left: 5vw; margin-right: 5vw; font-size: 3.5vw;}
+.text-p3{color: gold; text-shadow: 1px 1px palevioletred;; margin-left: 15vw ;}
+.text-p4{color: gold; text-shadow: 1px 1px palevioletred;;margin-left: 25vw;}
+.text-p5{color: goldenrod; text-align: center; margin-top: -5vw;}
+.text-p6{color: gold; text-shadow: 1px 1px blue; margin-left: 10vw;margin-top: -5vw}
+.text-p7{color: gold; text-shadow: 1px 1px blue;; margin-left: 20vw;}
+.text-p8{color: rgb(160, 136, 107); text-shadow: 1px 1px black ; font-size: 3.5vw; text-align: center;}
+.text-p10,.text-p11,.text-p12{ text-align: center;}
+.text-p10{margin-top: 10vw;}
+.text-p11{margin-top: -3vw;}
+.text-p13, .text-p14,.text-p15,.text-p16,.text-p17,.text-p18,.text-p19 {font-size: 3.5vw;font-family: "siemreap"; margin-left: 40vw; margin-right: 5vw;}
+
+.cut-hair{width: 10vw; margin-left: 15vw;}
+.text-p13{ margin-top: -13vw; display: flex;}
+.text-p14{ margin-top: -13vw;}
+.text-p15{ margin-top: -13vw;}
+.text-p16{ margin-top: -13vw;}
+.text-p17{ margin-top: -13vw;}
+
+
+
+
+
+
+
+.text-p20{ color: blueviolet; text-align: center; margin-top: 10vw;}
+.text-p21{color: rgb(16, 97, 0); text-align: center; font-size: 3.5vw; margin-top: -3vw;}
+.text-p22{color: rgb(16, 97, 0); text-align: center; font-size: 3.5vw; margin-top: -2vw;}
+
+.gallery-1{position: re;}
+
+.text-p30{color: rgb(240, 245, 245); text-align: center; align-content: center; background-color: rgb(79, 125, 86);
+ width: 50vw; height: 8vh; ; margin-left: 25%; border-radius: 25px; border: 2px solid gold;}
+
+
+
+.pic-31{width: 100%; border-radius: 25px; position: relative; padding: 2px;}
+
+.Pic-123 { display: inline-block; width: 40%; position:relative; border-radius: 25px }
+.Pic-12{width: 123%; border-radius: 25px;position: absolute;}
+.Pic-13{width:  123%; position: relative; margin-left: 48vw;border-radius: 25px}
+
+
+.wall-1{ width: 98vw; border-radius: 5%; margin-left: -1vw; }
+.wall-2{width: 48vw; margin-left: -1vw;border-radius: 5%;margin-top: 1vw;}
+.wall-3{width: 48vw; border-radius: 5%; margin-top: -100vw; margin-left: 49vw; margin-bottom: 4.8vw;}
+
+button {  cursor: pointer;transition: all 0.3s ease; font-size: 1.5vw;text-align: center; margin-left: -1vw;
+            cursor: pointer; outline: none; border-radius: 1px; background-color: bisque;
+        width: 6vw ; position: sticky; bottom:  55vw ; margin-top: -440vw; 
+        }
+
+.click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176);;
+width: 15vw; display: flex; margin-left: auto; margin-right: auto; }
+h5{font-size: 3vw; text-align: center; font-family: "Siemreap", sans-serif; 
+    color: blue; font-weight: 400; margin-top: 0%;}
+.pic-4{width: 100% ; margin-left: -7px; }
+.footer-2{ font-size: 6vw; }
+   

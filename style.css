@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Moul&family=Rubik:ital,wght@0,300..900;1,300..900&family=Siemreap&display=swap');
+*{width: 100vw; ;}
+
+body { background-image: url(/frame-door1.png);
+background-repeat: no-repeat; background-attachment: scroll; margin-bottom: -2vw;
+background-size: 100%; }
+.text-1{
+    color: white; width: auto; margin-top: 5vw; text-align: center; margin-left: -5vw;
+    font-family: "Moul", serif; font-size: 5vw; text-shadow: 2px 2px gold;}
+.logo-1{
+     width: 30%; 
+     display: flex; justify-content: center; align-content: center; margin: auto;
+     margin-top: 60vw;}
+.text-2{
+    color: white; text-align-last: center; text-shadow: 2px 2px gold;
+    font-family: "Moul", serif; font-size: 4vw; margin-bottom: 10vw; margin-top: 7vw;}
+    
+/* animation butterfly */
+.B1{width: 15vw; position: absolute; animation-delay: -0s;
+    animation-name: B1 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B1 {
+        from{ left: 10vw; top: 135vw;}
+        to{ left: 30vw; top: 75vw; }}
+.B2{width: 15vw;  position: absolute; animation-delay: -0s;
+    animation-name: B2 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B2 {
+        from{ left: 10vw; top: 135vw;}
+        to{ left: 45vw; top: 70vw; }}
+.B3{width: 15vw;   position: absolute; animation-delay: -0s;
+    animation-name: B3 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B3 {
+        from{ left: 10vw; top: 135vw;}
+        to{ left: 15vw; top: 65vw; }}
+.B4{width: 10vw;   position: absolute; animation-delay: -0s;
+    animation-name: B4 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B4 {
+        from{ left: 10vw; top: 135vw;}
+        to{ left: 65vw; top: 60vw; }}
+.B5{width: 10vw;   position: absolute; animation-delay: -0s;
+    animation-name: B5 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B5 {
+        from{ left: 10vw; top: 135vw;}
+        to{ left: 40vw; top: 55vw; }}
+
+.B1-1{width: 15vw; position: absolute; animation-delay: -0s; rotate: -100deg;
+    animation-name: B1-1 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B1-1 {
+        from{ left: 70vw; top: 135vw;}
+        to{ left: 30vw; top: 75vw; }}
+.B1-2{width: 15vw;  position: absolute; animation-delay: -0s;
+    animation-name: B1-2 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B1-2 {
+        from{ left: 70vw; top: 135vw;}
+        to{ left: 45vw; top: 70vw; }}
+.B1-3{width: 15vw;   position: absolute; animation-delay: -0s;
+    animation-name: B1-3 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B1-3 {
+        from{ left: 70vw; top: 135vw;}
+        to{ left: 15vw; top: 65vw; }}
+.B1-4{width: 10vw;   position: absolute; animation-delay: -0s;
+    animation-name: B1-4 ; animation-duration: 07s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B1-4 {
+        from{ left: 70vw; top: 135vw;}
+        to{ left: 65vw; top: 60vw; }}
+.B1-5{width: 10vw;   position: absolute; animation-delay: -0s;
+    animation-name: B1-5 ; animation-duration: 06s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes B1-5 {
+        from{ left: 70vw; top: 135vw;}
+        to{ left: 40vw; top: 55vw; }}
+/* End Animation Butterfly*/
+
+
+/* ឈ្មោះភ្ញៀវ */
+.text-3{ color: gold; font-family: "Moul", serif; font-size: 2.5vw;text-align: center; margin-top: -36vw;
+    ; padding: 1vw; width: auto; height: auto; margin-left: 15%; margin-right: 20%;}
+.frame-1{ margin-bottom: 0vw; margin-left: 18%; margin-right: 10%;
+    width: 60%; display: flex; margin-top: -30vw;}
+/* ចុចទៅធៀបទី២​ */
+.click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176); margin-bottom: -10vw;
+width: 10vw; display: flex; margin-left: auto; margin-right: auto; margin-top: 05%;}
+
+h5{font-size: 3vw; text-align: center; font-family: "Siemreap", sans-serif; 
+    color: white; font-weight: 400; margin-top: 10vw; margin-bottom: 10vw; }
+        
+/* ផ្កាមុខធៀប */  
+.flower-big-1{width: 100%; margin-left: -2vw ; position: absolute; margin-top: -5vw}
