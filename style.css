@@ -12,7 +12,7 @@ background-size: 100%; }
      display: flex; justify-content: center; align-content: center; margin: auto;
      margin-top: 60vw;}
 .text-2{
-    color: white; text-align-last: center; text-shadow: 2px 2px gold; margin-left: 1vw;
+    color: white; text-align-last: center; text-shadow: 2px 2px gold; margin-left: -2vw;
     font-family: "Moul", serif; font-size: 4vw; margin-bottom: 10vw; margin-top: 7vw;}
     
 /* animation butterfly */
