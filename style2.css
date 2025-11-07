@@ -80,7 +80,7 @@ background-color: rgb(142, 110, 75);
 
 button {  cursor: pointer;transition: all 0.3s ease; font-size: 1.5vw; text-align: center; margin-left: -1vw;
             cursor: pointer; outline: none; border-radius: 1px; background-color: bisque;
-        position: sticky; bottom:  55vw ; margin-top: -440vw; 
+        position: sticky; bottom:  55vw ; margin-top: -400vw; 
         }
 
 .click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176);;
