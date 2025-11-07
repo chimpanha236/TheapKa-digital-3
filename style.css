@@ -97,7 +97,7 @@ background-size: 100%; }
     width: 60%; display: flex; margin-top: -30vw;}
 /* ចុចទៅធៀបទី២​ */
 .click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176); margin-bottom: -10vw;
-width: 10vw; display: flex; margin-left: 42vw; margin-right: auto; margin-top: 05%;}
+width: 10vw; display: flex; margin-left: 42.5vw; margin-right: auto; margin-top: 05%;}
 
 h5{font-size: 3vw; text-align: center; font-family: "Siemreap", sans-serif; margin-left:-2vw;
     color: white; font-weight: 400; margin-top: 10vw; margin-bottom: 10vw; }
