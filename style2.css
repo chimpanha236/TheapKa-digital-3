@@ -78,9 +78,9 @@ background-color: rgb(142, 110, 75);
 .wall-2{width: 48vw; margin-left: -1vw;border-radius: 5%;margin-top: 1vw;}
 .wall-3{width: 48vw; border-radius: 5%; margin-top: -100vw; margin-left: 49vw; margin-bottom: 4.8vw;}
 
-button {  cursor: pointer;transition: all 0.3s ease; font-size: 1.5vw;text-align: center; margin-left: -1vw;
+button {  cursor: pointer;transition: all 0.3s ease; font-size: 1.5vw; text-align: center; margin-left: -1vw;
             cursor: pointer; outline: none; border-radius: 1px; background-color: bisque;
-        width: 6vw ; position: sticky; bottom:  55vw ; margin-top: -440vw; 
+        position: sticky; bottom:  55vw ; margin-top: -440vw; 
         }
 
 .click-pic{box-shadow: 10px 10px 10px rgb(148, 179, 176);;
